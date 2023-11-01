@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Mengoli</h1>
-<h3 align="center">A passionate Tech Entrepreneur on Mobile and XR from Italy 🇮🇹</h3>
+<h3 align="center">A passionate creator on Mobile and XR from Italy 🇮🇹</h3>
 
 - 🔭 I’m currently working on **few mobile projects and my first XR experiment.**
 
